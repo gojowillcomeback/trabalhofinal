@@ -85,6 +85,9 @@
 }
 
 @media (max-width: 800px) {
+    .rodape{
+        margin-top: 10vh;
+    }
     .menu{
         align-self: flex-end;
         margin-left: 10vh;
