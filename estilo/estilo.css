@@ -64,6 +64,7 @@
     background-color: rgb(168, 168, 168);
     justify-content: space-between;
     margin-top: 2vh;
+    justify-self: bottom;
 }
 
 .desen{
